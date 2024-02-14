@@ -38,6 +38,8 @@ public class Persona implements Serializable {
 
     private int meses;
 
+    private String universidad;
+
     private int años;
     private int caca;
 
