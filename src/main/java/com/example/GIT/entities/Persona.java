@@ -33,6 +33,8 @@ public class Persona implements Serializable {
     private LocalDate fechaNacimiento;
 
     private int salario;
+    
+    private int edad;
 
     private int meses;
 
