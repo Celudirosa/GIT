@@ -29,5 +29,7 @@ public class Persona implements Serializable {
     private String nombre;
     private String primerApellido;
     private String segundoApellido;
+
+    private int salario;
     
 }
